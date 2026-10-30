@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ragim Xhrestha! 👋
 
-<!--
-**Ragim-Xtha/Ragim-Xtha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🤖 I'm learning Machine Learning and Deep Learning.
+- 🐍 I use Python to build projects.
+- 🧠 I'm interested in Artificial Intelligence and Mathematics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+
+Thanks for visiting my profile!
